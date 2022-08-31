@@ -3,7 +3,6 @@ Imports System.Drawing
 Imports Azure.Core
 Imports Azure.Identity
 Imports Azure.Security.KeyVault.Secrets
-Imports Microsoft.Graph
 
 Module Program
 
